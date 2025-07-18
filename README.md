@@ -1,2 +1,2 @@
-# CSE423-project
-Made a diamond catcher game with openGL 
+# CSE423-project : Computer Graphics
+Made a diamond catcher game and Shoot the circles with openGL 
